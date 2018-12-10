@@ -4,7 +4,7 @@
 #include <string>
 #include <list>
 using namespace std;
-#include "dailySchedule.hpp"
+#include "scheduler.hpp"
 
 
 timeSlot::timeSlot(){
